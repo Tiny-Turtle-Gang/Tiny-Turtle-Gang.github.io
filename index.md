@@ -1,4 +1,4 @@
-# The tiny turtle Gang
+# The Tiny Turtle Gang
 
 The tiny turtle gang is the NFT community behind the famous tiny turtle popped up shortly in NFT space
 
