@@ -160,4 +160,7 @@ li {
 	width:	33%;
 	float: left
 }
-
+.main_div.background_story {
+    font-family: FiraSans-Bold;
+    font-size: 25px;
+}
