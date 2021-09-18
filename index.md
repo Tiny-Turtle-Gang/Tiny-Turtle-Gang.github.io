@@ -1,10 +1,9 @@
 # The Tiny Turtle Gang
 
-The tiny turtle gang is the NFT community behind the famous tiny turtle popped up shortly in NFT space on Ethereum
+The tiny turtle gang is the NFT community behind the famous tiny turtle popped up shortly in NFT space on Ethereum. The tiny turtle NFT is nearly dead but we still love the turtles and want that they survive. We he really hate what is currently ongoing. We want to drive the development of tiny turtle. Make a DAO which focus on decentralization, make a roadmap etc. This is the opportunity make the turtles to something great!🦇🔊 🐢🕶️
 
 [Tiny Turtle on Opensea](https://opensea.io/collection/tinyturtle)
 
-Tiny Turtle are 1/1 NFT collectibles- each is customized to have a set of unique characteristics. These tiny turtles have picked up random items from the beach, no wonder they looked kinda funny. Some tiny turtles are stranger than the rest; some even acquired special abilities. Who doesn't like turtles? Grab your tiny turtles while they’re still swimming around! Get your own Tiny Turtle Army!
 
 [Tiny Turtle #1]()
 ![Tiny Turtle #1]()
