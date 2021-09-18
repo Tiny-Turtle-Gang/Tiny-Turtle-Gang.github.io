@@ -45,16 +45,16 @@ Social Media:
 [Tiny Turtle #5](https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/91260899824372124641209108715188038484386929667987656266643133445164140331009/)
 ![Tiny Turtle #5](https://lh3.googleusercontent.com/B0S1AaxNVszOt1UAkNRJA_aKDXlHcMANjUPQc5DnHryYxBBgS6lCJ_XkEmyGvwpJTcNNaTb29V1UpU5CY1DM2gDukqO9IJTIQvV4Aw=w600)
 
-Properties:
+Properties: 3
 
 Discrption:
 
 Social Media:
 
-[Tiny Turtle #6]()
-![Tiny Turtle #6]()
+[Tiny Turtle #6](https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/91260899824372124641209108715188038484386929667987656266643133446263651958785/)
+![Tiny Turtle #6](https://lh3.googleusercontent.com/4h1MZkQqHq9p5wurN_YyBqHRqPag5KCxHW4veKHq7w_BYVn53iKATs71ghCsnbqotYXiEbIp7Hsk4s4KzUp7gCcsfamtMqB-ThSlWg=w600)
 
-Properties:
+Properties: 3
 
 Discrption:
 
