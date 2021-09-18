@@ -97,10 +97,10 @@ Discrption:
 
 Social Media:
 
-[Tiny Turtle #11]()
-![Tiny Turtle #11]()
+[Tiny Turtle #11](https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/91260899824372124641209108715188038484386929667987656266643133451761210097665/)
+![Tiny Turtle #11](https://lh3.googleusercontent.com/zxfJ4t4pvxCmpftlMxBSB7vh0dbTOe0fHgQuTw8suukkmCSvQ9YV53I_a2_25qgvUhtA7jgN5reKLxlbrFXG88fxu-ulBZTOCY5J=w600)
 
-Properties:
+Properties: 4
 
 Discrption:
 
