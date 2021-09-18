@@ -73,7 +73,7 @@ Social Media:
 [Tiny Turtle #8](https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/91260899824372124641209108715188038484386929667987656266643133448462675214337/)
 ![Tiny Turtle #8](https://lh3.googleusercontent.com/cPVvTBayCtdj2ncjOebyX1zfadgGqYNSvC7fJ6IS-fTJ2qIP-SdtaBOcp3wE4KjmIQfzlycearUXIldcLtT-q1-hcN2T0q-jJIZNBA=w600)
 
-Properties:
+Properties: 4
 
 Discrption:
 
